@@ -16,7 +16,7 @@ ACCESS_TOKEN = "put_your_value_here"
 ACCESS_SECRET_TOKEN = "put_your_value_here"
 ```
 
-The arguments which will be provided to the main function will be ssearched on twitter and the resulting posts will be liked automatically for you and the console will show the output of it which will be like
+The arguments which will be provided to the main function will be searched on twitter and the resulting posts will be liked automatically for you and the console will show the output of it which will be like
 ```
 Tweet with id - 1286204664673787906 has been liked
 Tweet with id - 1286204669442703360 has been liked
