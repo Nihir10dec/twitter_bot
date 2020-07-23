@@ -27,4 +27,4 @@ Tweet with id - 1286204686199074817 has been liked
 ```
 You can change the error message according to your usecase, I have printed the original error message itself.
 
-It will continue to go on and we have to manually stop the working of bot by pressing *CTRL+c*
+It will continue to go on and we have to manually stop the working of bot by pressing *Ctrl+C*
